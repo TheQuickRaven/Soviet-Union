@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(203, 0, 0);
+    margin: 0;
+}
+
+@font-face {
+    font-family: SOT;
+    src: url(../FONTS/Windlass.ttf);
+}
+
+.disclamer{
+    background-color: rgb(28, 1, 1);
+    text-align: center;
+    padding: 24px;
+    font-family: SOT;
+    color: rgb(101, 159, 14);
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 35%;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-family: SOT;
+    padding: 24px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-bottom-width: 2px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+}
+
+.quote{
+    color: yellow;
+    font-family: SOT;
+    text-align: center;
+    margin-bottom: 15%;
+}
+
+.text{
+    color: white;
+    font-family:"Kumar One";
+    text-align: center;
+    font-size: larger;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.box1{
+    color: white;
+    font-family:"Kumar One";
+    text-align: center;
+    font-size: larger;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: chocolate;
+    border-radius: 24px;
+    padding: 24px;
+}
+
+abbr{
+    color: rgb(0, 12, 143);
+}
+
+button{
+    padding: 24px;
+    font-family: SOT;
+    margin-bottom: 5%;
+}
+
+nav{
+    position: fixed;
+    left: 0;
+    top: 25%;
+    margin-right: 75%;
+    background-color: chocolate;
+    border-top-right-radius:24px;
+    padding: 1%;
+    border-bottom-right-radius:24px ;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-size: xx-small;
+    font-family: SOT;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+}
+
+.crew{
+    width: 25%;
+}
+
+td{
+    font-family: SOT;
+    width: 25%;
+}
